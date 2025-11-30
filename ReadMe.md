@@ -2,9 +2,9 @@
 
 <div align="center">
   
-### 🚀 Front-End Engineer | UI/UX Developer | JavaScript Specialist
+### 🚀 Front-End Engineer | UI/UX Developer | Angular Specialist
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-indhar-premchand.netlify.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://indhar-premchand.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://indhar-premchand.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indhar-p)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/indhar.jain)
 [![Email](https://img.shields.io/badge/Email-IndharJain@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:IndharJain@gmail.com)
